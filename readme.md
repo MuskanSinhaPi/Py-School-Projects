@@ -1,4 +1,4 @@
-MySQL interface with Python <hr>
+<h1> MySQL interface with Python </h1> <hr>
 <h2> OUTPUTS </h2>
 <ul>
   <li>
